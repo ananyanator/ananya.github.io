@@ -226,10 +226,10 @@ header table {
     margin:4.5% 0px;
     transition:0.4s ease-in-out;
 }
-#photos img:hover {
+/* #photos img:hover {
     transform: scale(1.1);
     cursor: pointer;
-}
+} */
 #bio {
     width:92vw;
     padding:6vh 4vw;
