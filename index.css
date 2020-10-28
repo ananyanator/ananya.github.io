@@ -205,9 +205,28 @@ header table {
     padding:6vh 4vw;
     font-weight:bold;
 }
+#experiment {
+    padding:6vh 4vw;
+    font-weight:bold;
+}
 #work h1 {
     padding:5px 0px;
     border-bottom:4px solid rgb(255, 44, 90);
+    width:50%;
+}
+#experiment h1 {
+    padding:5px 0px;
+    border-bottom:4px solid rgb(255, 44, 90);
+    width:50%;
+}
+#experiment h2 {
+    padding:2.5px 0px;
+    border-bottom:2px solid rgb(255, 44, 90);
+    width:50%;
+}
+#experiment h3 {
+    padding:2.5px 0px;
+    border-bottom:1px solid rgb(255, 44, 90);
     width:50%;
 }
 #photos {
